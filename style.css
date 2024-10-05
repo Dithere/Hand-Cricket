@@ -114,6 +114,24 @@ button:hover{
 #chutiya{
     font-size: larger;
 }
+footer{
+    text-align: center;
+    padding-top: 0px;
+    background-color: #000000a8;
+    color: #CF0A0A;
+    font-size: 12px;
+    width: 100%;
+    margin-top: 245px;
+    justify-content: baseline;
+}
+footer:hover{
+    background-color: #cf0a0aa5;
+    color: #000000;
+    border-color: #000000;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
 @media (max-width:489px){
     body{
         background-size: 500%;
