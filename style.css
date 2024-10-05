@@ -132,7 +132,7 @@ footer:hover{
     transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 
 }
-@media (max-width:489px){
+@media (max-width:850px){
     body{
         background-size: 500%;
     }
