@@ -114,3 +114,8 @@ button:hover{
 #chutiya{
     font-size: larger;
 }
+@media (max-width:489px){
+    body{
+        background-size: cover;
+    }
+}
