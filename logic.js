@@ -13,10 +13,8 @@ let four =document.querySelector("#four")
 let five =document.querySelector("#five")
 let six =document.querySelector("#six")
 let btn =document.querySelectorAll("button")
-let reset=document.querySelector("#pw")
-let nam=prompt(Enter Your Name)
+let reset=document.querySelector("#pw")
 let you=document.querySelector("#chutiya")
-you.innerHTML=nam
 const nmbrs =[1,2,3,4,5,6,7]
 let rand= Math.floor(
     Math.random() * nmbrs.length
