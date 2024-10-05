@@ -116,6 +116,6 @@ button:hover{
 }
 @media (max-width:489px){
     body{
-        background-size: cover;
+        background-size: 500%;
     }
 }
